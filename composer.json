@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/dom-crawler": "^3.2",
+        "symfony/console": "^3.2",
+        "symfony/config": "^3.2",
+        "symfony/css-selector": "^3.2",
+        "symfony/class-loader": "^3.2",
+        "fabpot/goutte": "^3.2",
+        "sunra/php-simple-html-dom-parser": "^1.5"
+    }
+}
